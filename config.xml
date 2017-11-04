@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.toodle" version="1.0">
-  <name>Toodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.PFC" version="1.0">
+  <name>Cptest 247</name>
   <description>
-        Todle Mobile official app
+        Cptest Mobile official app
     </description>
   <author href="http://moodle.com" email="bsuri258@gmail.com">
-        Toodle Mobile team
+        Cptest Mobile team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
